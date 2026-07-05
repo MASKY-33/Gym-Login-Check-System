@@ -1,3 +1,6 @@
+# Learning "file handling" (.txt)
+
+
 active_members = {
     101 : "Lauren",
     103 : "Sarah",
